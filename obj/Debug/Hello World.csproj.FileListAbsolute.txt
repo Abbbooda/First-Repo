@@ -1,0 +1,6 @@
+c:\users\test\documents\visual studio 2012\Projects\Hello World\Hello World\bin\Debug\Hello World.exe.config
+c:\users\test\documents\visual studio 2012\Projects\Hello World\Hello World\bin\Debug\Hello World.exe
+c:\users\test\documents\visual studio 2012\Projects\Hello World\Hello World\bin\Debug\Hello World.pdb
+c:\users\test\documents\visual studio 2012\Projects\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2012\Projects\Hello World\Hello World\obj\Debug\Hello World.exe
+c:\users\test\documents\visual studio 2012\Projects\Hello World\Hello World\obj\Debug\Hello World.pdb
